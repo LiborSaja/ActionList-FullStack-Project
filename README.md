@@ -12,7 +12,7 @@ Full-Stack task management application, so called "To Do App", where you can add
 - Programmatically created database, table and login details for it
 - Dynamic API generation (CRUD operations) for data stored in the database
 - Mobile-responsive frontend with Bootstrap
-- Processing and displaying records with UUIDv7 including calculation of creation time
+- Processing and displaying records with GUIDv7 including calculation of creation time
 ## Technologies
 
 #### Frontend
@@ -21,7 +21,7 @@ Full-Stack task management application, so called "To Do App", where you can add
 
 #### Backend
 - C# ASP.NET Core Web API (version .NET9)
-- Custom implementation of UUIDv7
+- Custom implementation of GUIDv7
 
 #### Database
 - PostgreSQL 17 with UUID support and Docker-based setup
