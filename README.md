@@ -35,6 +35,11 @@ Full-Stack task management application, so called "To Do App", where you can add
 
 #### Run
 - After unpacking, just run the run.bat file
+- The project will be installed in Docker Desktop - Containers
+- After installation, you can start the entire project in the Containers section using the small triangle in the Actions column (if it is not already running)
+- Then you can click on the project name, this will show you all three main parts of the application - backend, frontend, database
+- Make sure all three are running, then just click on the link to the frontend
+- Have fun : )
 
 ## Links to source codes
 - ⚙️ [Source code for backend in C#](https://github.com/LiborSaja/ActionListB)
