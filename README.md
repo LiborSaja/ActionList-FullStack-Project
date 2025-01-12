@@ -37,12 +37,12 @@ Full-Stack task management application, so called "To Do App", where you can add
 - After unpacking, just run the run.bat file
 
 ## Links to source codes
-- ⚙️ [Source code for backend in C#](https://github.com/LiborSaja/ActionListB){:target="_blank"}
+- ⚙️ [Source code for backend in C#](https://github.com/LiborSaja/ActionListB)
 
-- 🌐 [Source code for frontend Vue.js + Vite](https://github.com/LiborSaja/ActionListF){:target="_blank"}
+- 🌐 [Source code for frontend Vue.js + Vite](https://github.com/LiborSaja/ActionListF)
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sajalibor.cz/){:target="_blank"}
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/libor-saja/){:target="_blank"}
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sajalibor.cz/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/libor-saja/)
 
